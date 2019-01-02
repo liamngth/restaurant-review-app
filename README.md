@@ -8,9 +8,7 @@ This app  is created as part of the Udacity Nanodegree "Front End Developer"
 
 In order to run the application you have some options:
 
-1. Open it [here](https://liamngth.github.io/restaurant-review-app/)
-
-2. Run it locally
+1. Run it locally
 
 * Download as .zip file or clone the project 
 
