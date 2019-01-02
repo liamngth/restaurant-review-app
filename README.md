@@ -6,7 +6,7 @@ This app  is created as part of the Udacity Nanodegree "Front End Developer"
 
 ## Install the Application
 
-In order to run the application you have some options:
+In order to run the application:
 
 1. Run it locally
 
